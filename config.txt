@@ -1,6 +1,6 @@
-﻿token= 
-owner= 
-prefix= 
-game= help
+token= NTIxNjY2MzI5Mjc1NTMxMjY0.Du_vMA.87DAFpSvxuzwa0SYw9eZpdPHeeA
+owner= 411887639847763978
+prefix= Kh
+game= Khhelp
 stayinchannel=true 
 songinstatus=true 
